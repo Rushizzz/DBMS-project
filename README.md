@@ -11,7 +11,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using Rea
 
 ## Installation
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/Rushizzz/DBMS-project.git`
 2. Install dependencies: `npm install`
 3. Start the server: `npm start`
 
